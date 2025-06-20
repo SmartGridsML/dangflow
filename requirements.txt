@@ -10,4 +10,5 @@ tiktoken
 langchain-community
 fastapi 
 uvicorn 
+mistralai
 # mcp-langchain
