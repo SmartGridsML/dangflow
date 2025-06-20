@@ -1,0 +1,13 @@
+langchain 
+langflow 
+langchainhub 
+openai 
+faiss-cpu 
+pandas 
+weaviate-client
+llama-index 
+tiktoken 
+langchain-community
+fastapi 
+uvicorn 
+# mcp-langchain
